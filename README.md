@@ -12,3 +12,8 @@ Context:
 - prepare for modelling.
 
 - train a model.
+
+
+In this project, I will make use of automated machine learning as well as traditional machine learning. The Stakeholders, wants to know a few things about the data, also in understanding what machine learning really is with particular use case.
+
+I will use Python and its extensive collection of libraries to derive valuable insights from the data, prepare the data and train machine learning models - the old fashioned way and in newer, automated ways.
