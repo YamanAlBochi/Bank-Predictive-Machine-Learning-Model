@@ -7,8 +7,8 @@ Context:
 
 - we should understand the CRoss Industry Standard Process for Data Mining (CRISP-DM), and have an idea of the business needs.
 
--understand the data.
+- understand the data.
 
--prepare for modelling.
+- prepare for modelling.
 
--train a model.
+- train a model.
