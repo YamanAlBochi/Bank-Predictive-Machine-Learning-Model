@@ -25,7 +25,7 @@ The Department manager wants to know the following:
 
 2. What data quality issues exist in both train and test? (HINT: Comment any missing values and duplicates)
 
-3. How do the the loan statuses compare? i.e. what is the distrubition of each?
+3. How do the loan statuse's compare? i.e. what is the distrubition of each?
 
 4. How do women and men compare when it comes to defaulting on loans in the historical dataset?
 
